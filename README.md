@@ -71,9 +71,3 @@ When compiling the editors you should not include React or styled-components as 
 - https://gitlab.com/mpapp-public/manuscripts-manuscript-editor
 - https://github.com/appleple/smartblock
 - https://gitlab.coko.foundation/wax/wax-prosemirror
-
-### Collaborative editing
-
-- https://tiptap.dev/hocuspocus
-- https://github.com/ProseMirror/prosemirror-collab
-- https://github.com/cozy/prosemirror-go
